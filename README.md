@@ -1,2 +1,2 @@
 # brain
- My python implementation of the 'Brain' programming language
+Simple implentation of the brain programming language.
